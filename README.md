@@ -8,9 +8,6 @@ Well, we can segment customers based on their buying behaviour on the market.
 
 Keep in mind that the data is really huge, and we can not analyze it using a bare eye. We have to use machine learning algorithms and the power of computing for it.
 
-This article will show you how to cluster customers on segments based on their behaviour using the K-Means algorithm in Python.
-
-I hope that this article will help you on how to do customer segmentation step-by-step from preparing the data to cluster it.
 
 Plan Of Attack
 Before we get into the process, I will give you a brief on what kind of steps we will get.
